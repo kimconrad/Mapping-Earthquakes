@@ -5,7 +5,7 @@ Interactive map of recent earthquakes using USGS data.
 
 ------------------------------
 # Overview of Project
-Utilize GeoJSON data, JavaScript, the D3.js library, Leaflet, and a MapBox API to create an interactive map of recent earthquake data. 
+Utilize GeoJSON data, JavaScript, the D3.js library, Leaflet, and a Mapbox API to create an interactive map of recent earthquake data. 
 
 ## Project Tasks
 The analysis will determine:
@@ -15,7 +15,7 @@ The analysis will determine:
 ## Resources
 -- Data Source: GeoJSON data from USGS website
 
--- Software: JavaScript, D3.js library, Leaflet, MapBox
+-- Software: JavaScript, D3.js library, Leaflet, Mapbox
 
 
 -------------------------------
